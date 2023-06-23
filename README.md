@@ -15,7 +15,7 @@ I am a front-end developer with several years of experience in web development. 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limecodedk)](https://github.com/anuraghazra/github-readme-stats)
+//[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limecodedk)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
