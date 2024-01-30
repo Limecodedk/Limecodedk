@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Emil from Aarhus. 
 
-![front end developer and web designer]
-
-I am a front-end developer with several years of experience in web development. I love translating designs and user experiences into effective and intuitive user interfaces. I work with HTML, CSS, JavaScript, and frameworks such as React. I also have experience with NextJs. Additionally, I work with Wordpress. I have always been committed to learning more about the latest technology and development trends.
+I am a web developer with experience in HTML, CSS, JavaScript, and PHP. I have skills in frameworks such as React, Next.js, and Laravel. Additionally, I have experience with CMS (WordPress and Statamic). I enjoy translating designs and user experiences into effective and intuitive user interfaces.
 
 ## Skills and Experience
 ### Front-End:
