@@ -11,7 +11,7 @@ I am a web developer with experience in HTML, CSS, JavaScript, and PHP. I have s
   
 ### DESIGN:
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/><img src="https://thumbs.dreamstime.com/b/adobe-xd-logo-editorial-illustrative-white-background-adobe-xd-logo-editorial-illustrative-white-background-eps-download-208329083.jpg" alt="xd" width="40" height="40"/></p>
 
 
 <h3 align="left">Connect with me:</h3>
